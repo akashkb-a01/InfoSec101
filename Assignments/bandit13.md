@@ -7,9 +7,10 @@ Problem Page: [bandit13](https://overthewire.org/wargames/bandit/bandit14.html)
 
 ## List of Commands Used
 ```
-ls - list files in a directory
-ssh - OpenSSH SSH client (remote login program)
-cat - concatenate files and print on the standard output
+ls   - list files in a directory
+ssh  - OpenSSH SSH client (remote login program)
+cat  - concatenate files and print on the standard output
+exit - To close the connection to ssh server
 
 ```
 
