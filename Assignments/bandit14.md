@@ -7,9 +7,10 @@ Problem Page: [bandit14](https://overthewire.org/wargames/bandit/bandit15.html)
 
 ## List of Commands Used
 ```
-ssh - OpenSSH SSH client (remote login program)
+ssh  - OpenSSH SSH client (remote login program)
 echo - display a line of text
-nc - arbitrary TCP and UDP connections and listens
+nc   - arbitrary TCP and UDP connections and listens
+exit - To close the connection to ssh server
 
 ```
 
