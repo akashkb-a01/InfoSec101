@@ -3,7 +3,7 @@
 
 Author: [Akash Biswas](https://github.com/akashkb-a01)
 
-Problem Page: [bandit13](https://overthewire.org/bandit/bandit13)
+Problem Page: [bandit13](https://overthewire.org/wargames/bandit/bandit14.html)
 
 ## List of Commands Used
 ```
